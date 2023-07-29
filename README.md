@@ -1,5 +1,5 @@
 <img src="youtube.png"  align="center">
-<h1 align="center">YouTube Text Data Analysis Project</h1>
+<h1> YouTube Text Data Analysis Project </h1>
 
 Welcome to the YouTube Text Data Analysis Project! This project conducts sentiment analysis, analyzes the relationship between dislikes and views, and examines trending video tags on YouTube. Below are instructions on how to run the project and an overview of the different analyses performed.
 
