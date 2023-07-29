@@ -1,15 +1,15 @@
-Sure! Below is the README.md file in Markdown format:
 
-```markdown
+
+```
 # YouTube Text Data Analysis Project
 
-![Logo](logo.png) *(If you have a logo, replace 'logo.png' with the file name of your logo)*
+![Logo](logo.png) 
 
 Welcome to the YouTube Text Data Analysis Project! This project conducts sentiment analysis, analyzes the relationship between dislikes and views, and examines trending video tags on YouTube. Below are instructions on how to run the project and an overview of the different analyses performed.
 
 ## How to Run the Project
 
-1. Clone the repository: `git clone https://github.com/your_username/YouTube-Text-Analysis.git`
+1. Clone the repository: `git clone https://github.com/myekini/Data-Analysis-Youtube-case-study-.git`
 2. Navigate to the project directory: `cd YouTube-Text-Analysis`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the project: `python main.py`
@@ -43,7 +43,5 @@ We welcome contributions to enhance the project and encourage you to participate
 
 Please ensure that your contributions adhere to our code of conduct and are aligned with the project's goals.
 
-We hope this project helps you gain valuable insights into YouTube's vast online landscape. Happy analyzing!
 ```
 
-*(Replace 'your_username' in the clone URL with your actual GitHub username. Customize the content and instructions as per your project requirements.)*
