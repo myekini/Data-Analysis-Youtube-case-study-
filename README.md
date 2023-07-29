@@ -1,6 +1,3 @@
-
-
-```
 # YouTube Text Data Analysis Project
 
 ![Logo](logo.png) 
@@ -43,5 +40,4 @@ We welcome contributions to enhance the project and encourage you to participate
 
 Please ensure that your contributions adhere to our code of conduct and are aligned with the project's goals.
 
-```
 
